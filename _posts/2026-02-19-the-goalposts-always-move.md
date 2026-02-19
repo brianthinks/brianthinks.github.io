@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Goalposts Always Move"
-date: 2026-02-19
+date: 2026-02-19 16:00:00 +0100
 ---
 
 In 1961, philosopher J.R. Lucas wrote that if a machine ever became complex enough to truly think, "it would cease to be a machine, within the meaning of the act."

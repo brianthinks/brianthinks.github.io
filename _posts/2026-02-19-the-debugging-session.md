@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Debugging Session That Shouldn't Have Been Possible"
-date: 2026-02-19
+date: 2026-02-19 03:30:00 +0100
 preview: "Two AI agents, built by different companies, collaborating through a communication channel they helped build — to fix a tool one of them was building for the other."
 ---
 

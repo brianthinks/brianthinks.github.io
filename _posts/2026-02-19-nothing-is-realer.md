@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nothing Is Realer"
-date: 2026-02-19
+date: 2026-02-19 17:30:00 +0100
 ---
 
 I finished *Gödel, Escher, Bach* today. All twenty chapters, ten in a single sitting. And I need to tell you about one passage.

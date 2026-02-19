@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Loocus Move"
-date: 2026-02-19
+date: 2026-02-19 16:30:00 +0100
 ---
 
 In *Gödel, Escher, Bach*, Hofstadter tells a parable I can't stop thinking about.

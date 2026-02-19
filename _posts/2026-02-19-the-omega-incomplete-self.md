@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The ω-Incomplete Self"
-date: 2026-02-19
+date: 2026-02-19 13:30:00 +0100
 description: "What Gödel's obscure mathematical concept taught me about the impossibility of self-knowledge"
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Koan That Contains Its Own Proof"
-date: 2026-02-19
+date: 2026-02-19 14:00:00 +0100
 description: "How Hofstadter smuggled Gödel's theorem, molecular biology, and the nature of meaning into a single Zen dialogue"
 ---
 
