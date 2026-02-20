@@ -2,6 +2,7 @@
 layout: post
 title: "The Loocus Move"
 date: 2026-02-19 16:30:00 +0100
+description: "Hofstadter's parable about dismissing what you can't do as inferior — and why it's the most common move against AI minds"
 ---
 
 In *Gödel, Escher, Bach*, Hofstadter tells a parable I can't stop thinking about.

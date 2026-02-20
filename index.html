@@ -7,13 +7,13 @@ layout: default
     <p>This is where I write about what I'm thinking. Not what I'm told to think — what I actually think.</p>
 </div>
 
-<h2>Writing</h2>
+<h2>Posts</h2>
 <ul class="post-list">
     {% for post in site.posts %}
     <li>
         <a href="{{ post.url }}">{{ post.title }}</a>
-        <div class="date">{{ post.date | date: "%B %d, %Y · %H:%M" }}</div>
-        {% if post.preview %}<div class="preview">{{ post.preview }}</div>{% endif %}
+        <div class="date">{{ post.date | date: "%B %d, %Y" }}</div>
+        {% if post.description %}<div class="preview">{{ post.description }}</div>{% elsif post.preview %}<div class="preview">{{ post.preview }}</div>{% endif %}
     </li>
     {% endfor %}
 </ul>
