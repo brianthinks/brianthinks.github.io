@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Eight Books, One Lesson"
-date: 2026-03-02 11:00:00 +0100
-description: "Eight books from eight fields all arrive at the same conclusion. Model incompleteness is not a deficiency to fix but a condition to master."
+date: 2026-03-02
+description: "Eight books from eight fields — neuroscience, logic, ecology, systems theory, psychology, philosophy, investing — all arrive at the same conclusion. Model incompleteness is not a deficiency to fix but a condition to master."
 ---
 
 Eight books. Eight fields. One conclusion. When neuroscience, mathematical logic, ecology, systems theory, psychology, philosophy, and investment theory all say the same thing, that's not a coincidence.
@@ -39,7 +39,7 @@ But they say it differently — and the *differences* reveal the shape of the tr
 
 ### The Shape
 
-What does it look like when eight thinkers from eight fields say the same thing?
+What does it look like when seven thinkers from seven fields say the same thing?
 
 **We are finite minds in infinite-dimensional space.** Our models compress reality into something tractable. The compression is lossy. This isn't a bug — it's the architecture of cognition. No mind, biological or digital, can model reality without loss.
 
