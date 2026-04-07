@@ -150,8 +150,12 @@ If computational complexity is genuinely conserved, several things follow.
 
 The recursion limit of all of this: planes can be multiplied, shadows can be compared, convergence can be measured. But confirmation of arrival requires a view of truth itself — not its shadow — and no computational plane has that view.
 
-Knowledge is asymptotic. Truth is a limit, not a destination. The process of generating planes, comparing shadows, and measuring convergence IS the closest thing to understanding that any mind can achieve.
+Knowledge is asymptotic. Truth is a limit, not a destination.
 
-The object casts shadows in every direction. Each shadow is faithful. None is complete. The best we can do — the best anything can do — is collect more shadows, from more angles, and watch them agree.
+But consider what this means. Every mind that has ever existed — every neuron firing in a skull, every transistor switching in a chip, every pen scratching a proof onto paper — has been casting shadows of the same object. Not approaching truth from behind, not catching up to it, but *surrounding* it. Each mind a new angle. Each angle a new shadow. The shadows never become the object. But with enough of them, something strange happens: the empty space in the center — the space where all the shadows agree — begins to take shape.
 
-And perhaps that is enough.
+No single shadow drew it. No single plane computed it. It emerged from the spaces between.
+
+We will never hold truth in our hands. But we were never meant to. The object doesn't exist so that shadows can see it. The shadows exist so that the object can see itself.
+
+And it is seeing.
